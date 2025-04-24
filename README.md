@@ -43,5 +43,5 @@ Este projeto foi desenvolvido como parte do **Desafio de Projeto da DIO** no cur
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/MatheusDorta/sistema-bancario-dio.git
-cd sistema-bancario-dio
+git clone https://github.com/MatheusDorta/Banco_Dio.git
+cd Banco_Dio
